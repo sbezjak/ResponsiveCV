@@ -469,6 +469,10 @@ img{
     content: "-"; 
   } 
 
+  .accordion:focus{
+      outline: none;
+  }
+
 /* EDUCATION */
 .education__container{
     row-gap: 2rem;
