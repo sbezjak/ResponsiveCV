@@ -470,7 +470,7 @@ img{
   } 
 
   .accordion:focus{
-      outline: none;
+      outline: none !important;
   }
 
 /* EDUCATION */
