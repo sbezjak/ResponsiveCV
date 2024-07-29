@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 
 /* CSS VARIABLES */
-:root{
+:root {
     --header-height: 3rem;
     --nav-width: 324px;
 
@@ -12,13 +12,13 @@
     --font-bold: 700;
 
     /* Colors */
-    --first-color: #CC4B2C;
-    --first-color-lighten: #dd8169;
-    --first-color-dark: #662616;
-    --first-color-darken: #290F09;
-    --text-color: #54423D;
-    --first-color-light: #EAE7E6;
-    --first-color-lighten: #FFFAFA; 
+    --first-color: #0d47a1; 
+    --first-color-lighten: #5472d3; 
+    --first-color-dark: #002171; 
+    --first-color-darken: #001d5b;
+    --text-color: #1b1b1b;
+    --first-color-light: #e3f2fd;
+    --first-color-lighten: #e3f2fd;
 
     /* Font and typography */
     --body-font: 'Poppins', sans-serif;
@@ -35,7 +35,7 @@
     --mb-3: 1.5rem;
     --mb-4: 2rem;
     --mb-5: 2.5rem;
-    
+
     /* z index */
     --z-fixed: 100;
 }
@@ -441,7 +441,7 @@ img{
   }
 
   .accordion__active, .accordion:hover {
-    color: #CC4B2C;
+    color: #2892d8;
   }
   
   .accordion__content {
