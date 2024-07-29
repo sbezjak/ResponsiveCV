@@ -660,7 +660,7 @@ img{
 
 .footer__copy{
     font-size: var(--smaller-font-size);
-    color: var(--text-color);
+    color: #3d3c3c;
 }
 
 /* MEDIA QUERIES */
